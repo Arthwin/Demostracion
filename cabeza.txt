@@ -2,9 +2,10 @@ los ojos
     -izquierdo
     -derecho
 
-
+la nariz
+-asdasdada
+-fsdafsdfsd
 
 la boca
-
-
-la nariz
+-labio superior
+-labio inferior
