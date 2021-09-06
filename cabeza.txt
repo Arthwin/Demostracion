@@ -1,4 +1,6 @@
 los ojos
+    -izquierdo
+    -derecho
 
 la nariz
 -asdasdada
