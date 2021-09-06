@@ -2,7 +2,9 @@ los ojos
     -izquierdo
     -derecho
 
-la nariz
 
 
 la boca
+
+
+la nariz
